@@ -1,0 +1,4 @@
+[submodule "Patient-Check-In"]
+	path = Patient-Check-In
+	url = git@github.com:Dtan1293/Patient-Check-In.git
+	branch = master
